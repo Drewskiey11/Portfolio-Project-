@@ -12,44 +12,41 @@ rmarkdown::render(
 )
 ```
 
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+By trade I am a laborer and is efficient in the construction field. A background and studying of coding languages and excel files. Skilled in being hands on and being able to learn quickly and think on my feet. Efficient is data wrangling and providing visualization of said data. 
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Programming Languages:** R, Python, Excel  
+- **Web Technologies:** HTML, Quarto, Excel, Analytics Tools
 
 # Education
 
 | Degree                             | Year                          | College / Department                 | Institution         |
 | ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| [Studying to Get my Undergrad]                     | [Start – 2022]     | [College of Business]        | [Cal Poly Pomona]   |
+
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### [Laborer, [Ley Drew INC]  
+*[2018-Now]*
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+- [Cleaning up the worksite]  
+- [Helping with Framing]  
+- [Doing what I am Told to Do]  
+- [Efficient in Power Tools]  
 
 ---
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### [Salesmen], [Starberry Farms]  
+*[2019-2021]*
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+- [Selling Christmas Trees]  
+- [Bringing Christmas Trees to Cars]  
+- [Attaching Trees to Cars]  
+- [Being Efficient in Communcating with Customers]  
 
 ---

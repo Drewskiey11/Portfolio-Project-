@@ -1,28 +1,30 @@
 ---
-title: "Campaign Insights Dashboard"
-image: "https://placehold.co/600x400?text=Campaign+Dashboard"
-categories: [Dashboarding, Marketing Analytics, Data Visualization, Performance Metrics, Customer Insights]
+title: "Covid-19 Preventive Protocols"
+image: "https://www.cityofpasadena.net/public-health/wp-content/uploads/sites/32/Image-of-COVID-19-Virus-full.jpg"
+categories: [Dashboarding, Marketing Analytics, Data Visualization, Data Wrangling, Customer Surveys]
 index: 1
 ---
 
 #### **Overview**  
-This project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.
+This project involved building a presentation using Rstudio. Through this I wrangled data, specifically data that talked about the ways coffee shops prevented the spread of covid 19. I then created box plots and bar charts to visual the data that was found to make it easier for an audience to read and understand.
+
+Github for this project: [Click here](https://github.com/Drewskiey11/Website-Project)
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Visualize and monitor key marketing metrics.  
-- Analyze performance trends across multiple campaigns.  
-- Identify high- and low-performing segments.  
-- Communicate insights through interactive visuals.  
-- Develop data-informed recommendations.
+- Wrangling specific data from datasets
+- Visualizing the data that was wrangled
+- Building a presentation through Rstudio  
+- Communicating what was found through methods and visualization  
+- Learning how to push and pull in Github
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Dashboard development  
-- Campaign analytics  
+- Visualization   
+- Github pushing, pulling, and committing 
 - Data wrangling in R  
-- Tableau or R Shiny visualization  
-- Performance measurement
+- R Shiny visualization  
+- GGplot2 visualization
 :::
 :::

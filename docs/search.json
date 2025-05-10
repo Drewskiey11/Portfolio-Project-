@@ -30,14 +30,14 @@
   {
     "objectID": "marketing-analytics.html",
     "href": "marketing-analytics.html",
-    "title": "Marketing Analytics",
+    "title": "Sports Marketing/Analytics",
     "section": "",
-    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+    "text": "I want to utilize my skills that I have learned to develop analytics to determine who may be useful to a team and what the team can use to maximize there profits. This would be done by utlizing my skills in excel to determine such things like demographics, ages, and location. Doing this I can learn what the team needs to advertise and they can use to bring more fans to there games.\nUsing my skills in Rstudio and also Python I am able to produce websites and informative presentations to show my finding and make them readable. I am able to transfer excel sheets into Rstudio and by doing that I am able to wrangle important data and determine the answers that are needed."
   },
   {
     "objectID": "marketing-analytics.html#what-youll-find",
     "href": "marketing-analytics.html#what-youll-find",
-    "title": "Marketing Analytics",
+    "title": "Sports Marketing/Analytics",
     "section": "What You’ll Find",
     "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
   },
@@ -67,7 +67,7 @@
     "href": "resume.html",
     "title": "Résumé",
     "section": "",
-    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
+    "text": "Professional Summary\nBy trade I am a laborer and is efficient in the construction field. A background and studying of coding languages and excel files. Skilled in being hands on and being able to learn quickly and think on my feet. Efficient is data wrangling and providing visualization of said data.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, Excel\n\nWeb Technologies: HTML, Quarto, Excel, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Studying to Get my Undergrad]\n[Start – 2022]\n[College of Business]\n[Cal Poly Pomona]\n\n\n\n\n\nWork Experience\n\n[Laborer, [Ley Drew INC]\n[2018-Now]\n\n[Cleaning up the worksite]\n\n[Helping with Framing]\n\n[Doing what I am Told to Do]\n\n[Efficient in Power Tools]\n\n\n\n\n[Salesmen], [Starberry Farms]\n[2019-2021]\n\n[Selling Christmas Trees]\n\n[Bringing Christmas Trees to Cars]\n\n[Attaching Trees to Cars]\n\n[Being Efficient in Communcating with Customers]"
   },
   {
     "objectID": "listings/02-seo-benchmarking-analysis.html",
@@ -86,9 +86,9 @@
   {
     "objectID": "listings/01-campaign-insights-dashboard.html",
     "href": "listings/01-campaign-insights-dashboard.html",
-    "title": "Campaign Insights Dashboard",
+    "title": "Covid-19 Preventive Protocols",
     "section": "",
-    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+    "text": "Overview\nThis project involved building a presentation using Rstudio. Through this I wrangled data, specifically data that talked about the ways coffee shops prevented the spread of covid 19. I then created box plots and bar charts to visual the data that was found to make it easier for an audience to read and understand.\nGithub for this project: Click here\n\n\n\n\nLearning Outcomes\n\nWrangling specific data from datasets\nVisualizing the data that was wrangled\nBuilding a presentation through Rstudio\n\nCommunicating what was found through methods and visualization\n\nLearning how to push and pull in Github\n\n\n\n\nKey Skills Gained\n\nVisualization\n\nGithub pushing, pulling, and committing\nData wrangling in R\n\nR Shiny visualization\n\nGGplot2 visualization"
   },
   {
     "objectID": "strategic-marketing.html",
@@ -131,5 +131,12 @@
     "title": "Professional Summary",
     "section": "",
     "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "marketing-analytics.html#how-can-i-be-utilized",
+    "href": "marketing-analytics.html#how-can-i-be-utilized",
+    "title": "Sports Marketing/Analytics",
+    "section": "How can I be Utilized",
+    "text": "How can I be Utilized\n\nSports Analysis: Evaluating the preformance of players statistics.\nData Visualization: Turning raw datasets into charts or plots.\nFan Evaluation: Exploring what fans like and want to maximize profits.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
   }
 ]

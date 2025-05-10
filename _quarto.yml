@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "YOUR NAME"
+  title: "Andrew Ingraham"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Marketing Analytics"
+      - text: "Sports Marketing/Analytics"
         href: marketing-analytics.qmd
       - text: "Strategic Marketing"
         href: strategic-marketing.qmd
