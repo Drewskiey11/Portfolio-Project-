@@ -1,26 +1,27 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hello, my name is Andrew Ingraham"
 ---
 
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+
+![Me](Headshot.png){width=100% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I am studying business marketing. I primarly focus on and practice sells but I can also exceed in excel and creating readable information from coding.
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I am currently studying to recieve my <span class="highlight">[Undergrad in Marketing]</span> from [Cal Poly Pomona].
 
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me] at (Aingraham@cpp.edu)
 
 ---
 
