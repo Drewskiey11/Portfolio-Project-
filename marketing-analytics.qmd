@@ -18,4 +18,6 @@ Using my skills in Rstudio and also Python I am able to produce websites and inf
 - **Data Visualization:** Turning raw datasets into charts or plots.
 - **Fan Evaluation:** Exploring what fans like and want to maximize profits.
 - **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+
+**Below is an example of one of the projects I have done using Rstudio**
 ---

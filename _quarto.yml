@@ -10,7 +10,7 @@ website:
         href: index.qmd
       - text: "Sports Marketing/Analytics"
         href: marketing-analytics.qmd
-      - text: "Strategic Marketing"
+      - text: "Data Wrangling/Visualization and Rsdtudio"
         href: strategic-marketing.qmd
       - text: "Résumé"
         href: resume.qmd
@@ -18,6 +18,6 @@ website:
 
 format:
   html:
-    theme: [flatly, theme.scss]
+    theme: [Slate, theme.scss]
     toc: true
 
