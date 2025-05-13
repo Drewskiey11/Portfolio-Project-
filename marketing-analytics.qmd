@@ -3,7 +3,6 @@ title: "Sports Marketing/Analytics"
 listing: 
   contents: listings
   type: grid
-  categories: true
   sort: 
     - "index desc"
 ---

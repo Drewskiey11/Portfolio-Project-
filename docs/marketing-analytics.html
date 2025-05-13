@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -183,7 +183,7 @@ window.Quarto = {
   <li><a href="#below-is-an-example-of-one-of-the-projects-i-have-done-using-rstudio" id="toc-below-is-an-example-of-one-of-the-projects-i-have-done-using-rstudio" class="nav-link" data-scroll-target="#below-is-an-example-of-one-of-the-projects-i-have-done-using-rstudio"><strong>Below is an example of one of the projects I have done using Rstudio</strong></a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q3VzdG9tZXIlMjBTdXJ2ZXlz">Customer Surveys <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGFzaGJvYXJkaW5n">Dashboarding <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMFZpc3VhbGl6YXRpb24=">Data Visualization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMFdyYW5nbGluZw==">Data Wrangling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFya2V0aW5nJTIwQW5hbHl0aWNz">Marketing Analytics <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -236,23 +236,6 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 Covid-19 Preventive Protocols
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RGFzaGJvYXJkaW5n'); return false;">
-Dashboarding
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWFya2V0aW5nJTIwQW5hbHl0aWNz'); return false;">
-Marketing Analytics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMFZpc3VhbGl6YXRpb24='); return false;">
-Data Visualization
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMFdyYW5nbGluZw=='); return false;">
-Data Wrangling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q3VzdG9tZXIlMjBTdXJ2ZXlz'); return false;">
-Customer Surveys
-</div>
-</div>
 <div class="card-text listing-description">
 This project involved building a presentation using Rstudio. Through this I wrangled data, specifically data that talked about the ways coffee shops prevented the spread of…
 </div>
