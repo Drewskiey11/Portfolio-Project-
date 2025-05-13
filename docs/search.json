@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Sports Marketing/Analytics",
+    "section": "",
+    "text": "I want to utilize my skills that I have learned to develop analytics to determine who may be useful to a team and what the team can use to maximize there profits. This would be done by utlizing my skills in excel to determine such things like demographics, ages, and location. Doing this I can learn what the team needs to advertise and they can use to bring more fans to there games.\nUsing my skills in Rstudio and also Python I am able to produce websites and informative presentations to show my finding and make them readable. I am able to transfer excel sheets into Rstudio and by doing that I am able to wrangle important data and determine the answers that are needed."
+  },
+  {
+    "objectID": "marketing-analytics.html#how-can-i-be-utilized",
+    "href": "marketing-analytics.html#how-can-i-be-utilized",
+    "title": "Sports Marketing/Analytics",
+    "section": "How can I be Utilized",
+    "text": "How can I be Utilized\n\nSports Analysis: Evaluating the preformance of players statistics.\nData Visualization: Turning raw datasets into charts or plots.\nFan Evaluation: Exploring what fans like and want to maximize profits.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  },
+  {
+    "objectID": "marketing-analytics.html#below-is-an-example-of-one-of-the-projects-i-have-done-using-rstudio",
+    "href": "marketing-analytics.html#below-is-an-example-of-one-of-the-projects-i-have-done-using-rstudio",
+    "title": "Sports Marketing/Analytics",
+    "section": "Below is an example of one of the projects I have done using Rstudio",
+    "text": "Below is an example of one of the projects I have done using Rstudio"
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Data Wrangling/Visualization and Rsdtudio",
+    "section": "",
+    "text": "Below is a project/assigment I did for my CIS3100 class. This illustrates my skills in data wrangling and in visualization. Through this you can see what codes I used to wrangle said data. You can also see my graphs and charts that I have also created to correlate with the data that i have wrangled."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-m05-application-data_wrangling_tidyverse",
+    "href": "strategic-marketing.html#project-title-m05-application-data_wrangling_tidyverse",
+    "title": "Data Wrangling/Visualization and Rsdtudio",
+    "section": "[Project Title: M05-Application-Data_Wrangling_Tidyverse]",
+    "text": "[Project Title: M05-Application-Data_Wrangling_Tidyverse]\nFor my class I had too answer many challenging questions. This included the questions about wrangling certain data from datasets. I also had to create charts and graphs to visual the data that i have wrangled. You can also see in majority of the questions I have added different kinds of graphs and charts. You can see that I have made numbers or words on the y and x axis and I made it so they have multiple color indicators as well as otehr useful things.\nSkills Demonstrated:\n\nData Wrangling: Took data from datasets and layed out the data that was needed.\nVisualization: Turned that data into visual charts and graphs.\nCustomization: I made color indicators and added legends to the graphs and charts.\nUse of Ggplot2: Used the package ggplot to develop my graphs and charts.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Covid-19 Preventive Protocols",
+    "section": "",
+    "text": "Overview\nThis project involved building a presentation using Rstudio. Through this I wrangled data, specifically data that talked about the ways coffee shops prevented the spread of covid 19. I then created box plots and bar charts to visual the data that was found to make it easier for an audience to read and understand.\nGithub for this project: Click here\n\n\n\n\nLearning Outcomes\n\nWrangling specific data from datasets\nVisualizing the data that was wrangled\nBuilding a presentation through Rstudio\n\nCommunicating what was found through methods and visualization\n\nLearning how to push and pull in Github\n\n\n\n\nKey Skills Gained\n\nVisualization\n\nGithub pushing, pulling, and committing\nData wrangling in R\n\nR Shiny visualization\n\nGGplot2 visualization"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "Professional Summary\nBy trade I am a laborer and is efficient in the construction field. A background and studying of coding languages and excel files. Skilled in being hands on and being able to learn quickly and think on my feet. Efficient is data wrangling and providing visualization of said data.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, Excel\n\nWeb Technologies: HTML, Quarto, Excel, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Studying to Get my Undergrad]\n[Start – 2022]\n[College of Business]\n[Cal Poly Pomona]\n\n\n\n\n\nWork Experience\n\n[Laborer, [Ley Drew INC]\n[2018-Now]\n\n[Cleaning up the worksite]\n\n[Helping with Framing]\n\n[Doing what I am Told to Do]\n\n[Efficient in Power Tools]\n\n\n\n\n[Salesmen], [Starberry Farms]\n[2019-2021]\n\n[Selling Christmas Trees]\n\n[Bringing Christmas Trees to Cars]\n\n[Attaching Trees to Cars]\n\n[Being Efficient in Communcating with Customers]"
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello, my name is Andrew Ingraham",
@@ -14,129 +70,10 @@
     "text": "About Me\nI am currently studying to recieve my [Undergrad in Marketing] from [Cal Poly Pomona]."
   },
   {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Hi, I’m [Your Name Here]",
-    "section": "What I Do",
-    "text": "What I Do\n\n[Skill or Service 1]: [Brief explanation or tools used].\n[Skill or Service 2]: [Brief explanation or area of expertise].\n[Skill or Service 3]: [Brief explanation or audience served].\n[Skill or Service 4]: [Brief explanation or technologies used]."
-  },
-  {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
     "title": "Hello, my name is Andrew Ingraham",
     "section": "Let’s Connect",
     "text": "Let’s Connect\nYou can [email me] at (Aingraham@cpp.edu)\n\nWelcome to my portfolio."
-  },
-  {
-    "objectID": "marketing-analytics.html",
-    "href": "marketing-analytics.html",
-    "title": "Sports Marketing/Analytics",
-    "section": "",
-    "text": "I want to utilize my skills that I have learned to develop analytics to determine who may be useful to a team and what the team can use to maximize there profits. This would be done by utlizing my skills in excel to determine such things like demographics, ages, and location. Doing this I can learn what the team needs to advertise and they can use to bring more fans to there games.\nUsing my skills in Rstudio and also Python I am able to produce websites and informative presentations to show my finding and make them readable. I am able to transfer excel sheets into Rstudio and by doing that I am able to wrangle important data and determine the answers that are needed."
-  },
-  {
-    "objectID": "marketing-analytics.html#what-youll-find",
-    "href": "marketing-analytics.html#what-youll-find",
-    "title": "Sports Marketing/Analytics",
-    "section": "What You’ll Find",
-    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
-  },
-  {
-    "objectID": "resume/YOUR-NAME-Resume.html",
-    "href": "resume/YOUR-NAME-Resume.html",
-    "title": "Professional Summary",
-    "section": "",
-    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
-  },
-  {
-    "objectID": "listings/05-social-media-engagement.html",
-    "href": "listings/05-social-media-engagement.html",
-    "title": "Social Media Engagement Analysis",
-    "section": "",
-    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
-  },
-  {
-    "objectID": "listings/03-customer-segmentation-clustering.html",
-    "href": "listings/03-customer-segmentation-clustering.html",
-    "title": "Customer Segmentation Using Clustering",
-    "section": "",
-    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Résumé",
-    "section": "",
-    "text": "Professional Summary\nBy trade I am a laborer and is efficient in the construction field. A background and studying of coding languages and excel files. Skilled in being hands on and being able to learn quickly and think on my feet. Efficient is data wrangling and providing visualization of said data.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, Excel\n\nWeb Technologies: HTML, Quarto, Excel, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Studying to Get my Undergrad]\n[Start – 2022]\n[College of Business]\n[Cal Poly Pomona]\n\n\n\n\n\nWork Experience\n\n[Laborer, [Ley Drew INC]\n[2018-Now]\n\n[Cleaning up the worksite]\n\n[Helping with Framing]\n\n[Doing what I am Told to Do]\n\n[Efficient in Power Tools]\n\n\n\n\n[Salesmen], [Starberry Farms]\n[2019-2021]\n\n[Selling Christmas Trees]\n\n[Bringing Christmas Trees to Cars]\n\n[Attaching Trees to Cars]\n\n[Being Efficient in Communcating with Customers]"
-  },
-  {
-    "objectID": "listings/02-seo-benchmarking-analysis.html",
-    "href": "listings/02-seo-benchmarking-analysis.html",
-    "title": "SEO Benchmarking Analysis",
-    "section": "",
-    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
-  },
-  {
-    "objectID": "listings/04-funnel-attribution-model.html",
-    "href": "listings/04-funnel-attribution-model.html",
-    "title": "Marketing Funnel Attribution Model",
-    "section": "",
-    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
-  },
-  {
-    "objectID": "listings/01-campaign-insights-dashboard.html",
-    "href": "listings/01-campaign-insights-dashboard.html",
-    "title": "Covid-19 Preventive Protocols",
-    "section": "",
-    "text": "Overview\nThis project involved building a presentation using Rstudio. Through this I wrangled data, specifically data that talked about the ways coffee shops prevented the spread of covid 19. I then created box plots and bar charts to visual the data that was found to make it easier for an audience to read and understand.\nGithub for this project: Click here\n\n\n\n\nLearning Outcomes\n\nWrangling specific data from datasets\nVisualizing the data that was wrangled\nBuilding a presentation through Rstudio\n\nCommunicating what was found through methods and visualization\n\nLearning how to push and pull in Github\n\n\n\n\nKey Skills Gained\n\nVisualization\n\nGithub pushing, pulling, and committing\nData wrangling in R\n\nR Shiny visualization\n\nGGplot2 visualization"
-  },
-  {
-    "objectID": "strategic-marketing.html",
-    "href": "strategic-marketing.html",
-    "title": "Strategic Marketing",
-    "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 1: Strategic Campaign Planning]",
-    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 2: Brand Audit & Positioning]",
-    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
-    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
-    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
-  },
-  {
-    "objectID": "resume/Resume.html",
-    "href": "resume/Resume.html",
-    "title": "Professional Summary",
-    "section": "",
-    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
-  },
-  {
-    "objectID": "marketing-analytics.html#how-can-i-be-utilized",
-    "href": "marketing-analytics.html#how-can-i-be-utilized",
-    "title": "Sports Marketing/Analytics",
-    "section": "How can I be Utilized",
-    "text": "How can I be Utilized\n\nSports Analysis: Evaluating the preformance of players statistics.\nData Visualization: Turning raw datasets into charts or plots.\nFan Evaluation: Exploring what fans like and want to maximize profits.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
   }
 ]

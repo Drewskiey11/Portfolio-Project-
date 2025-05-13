@@ -8,16 +8,15 @@ listing:
     - "index desc"
 ---
 
-I want to utilize my skills that I have learned to develop analytics to determine who may be useful to a team and what the team can use to maximize there profits. This would be done by utlizing my skills in excel to determine such things like demographics, ages, and location. Doing this I can learn what the team needs to advertise and they can use to bring more fans to there games. 
+I want to utilize my skills that I have learned to develop analytics to determine who may be useful to a team and what the team can use to maximize there profits. This would be done by utlizing my skills in excel to determine such things like demographics, ages, and location. Doing this I can learn what the team needs to advertise and they can use to bring more fans to there games.
 
 Using my skills in Rstudio and also Python I am able to produce websites and informative presentations to show my finding and make them readable. I am able to transfer excel sheets into Rstudio and by doing that I am able to wrangle important data and determine the answers that are needed.
 
 ## How can I be Utilized
 
-- **Sports Analysis:** Evaluating the preformance of players statistics.
-- **Data Visualization:** Turning raw datasets into charts or plots.
-- **Fan Evaluation:** Exploring what fans like and want to maximize profits.
-- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+-   **Sports Analysis:** Evaluating the preformance of players statistics.
+-   **Data Visualization:** Turning raw datasets into charts or plots.
+-   **Fan Evaluation:** Exploring what fans like and want to maximize profits.
+-   **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
 
-**Below is an example of one of the projects I have done using Rstudio**
----
+## **Below is an example of one of the projects I have done using Rstudio**
